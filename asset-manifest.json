@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ansim-chat/static/css/main.3fe64fce.css",
+    "main.js": "/ansim-chat/static/js/main.ce82a219.js",
+    "static/media/dp1.png": "/ansim-chat/static/media/dp1.287fe07abb1bedb68c12.png",
+    "index.html": "/ansim-chat/index.html",
+    "main.3fe64fce.css.map": "/ansim-chat/static/css/main.3fe64fce.css.map",
+    "main.ce82a219.js.map": "/ansim-chat/static/js/main.ce82a219.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe64fce.css",
+    "static/js/main.ce82a219.js"
+  ]
+}
